@@ -1,0 +1,17 @@
+7th Infantry Division
+- IF1 0 100 50 50 0 0
+74th Armored Division
+- TK1 0 0 0 0 100 0
+June 4, 1989's Tank Division
+- TK2 0 0 0 0 100 0
+1st Infantry Division
+- IF2 100 100 20 0 0 0
+S.W.I.T.C.H
+101th Divison, Very Heavy
+- HT1 0 0 0 0 0 100
+20th Division, Very Heavy
+- HT2 0 0 0 0 0 100
+82th Airbone Division
+- IF1 0 100 50 50 0 0
+Second Artilery, PLA Support Squadron
+- IF2 0 10 10 150 0 0
