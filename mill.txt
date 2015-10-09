@@ -2,7 +2,7 @@
 - IF1 0 100 50 50 0 0
 74th Armored Division
 - TK1 0 0 0 0 100 0
-June 4, 1989's Tank Division
+Capital Protector Tank Division
 - TK2 0 0 0 0 100 0
 1st Infantry Division
 - IF2 100 100 20 0 0 0
